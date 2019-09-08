@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ascensor
+comment0.text=\r\n\ Programa\ para\ simular\ un\ ascensor\r\n\r\n\ @author\ Sandra\ Martin,\ Israel\ Severiche,\ Jose\ Alvarez\r\n\ @version\ 20190908\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

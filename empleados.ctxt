@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=empleados
+comment0.text=\r\n\ Programa\ para\ simular\ BD\ de\ empleados\r\n\r\n\ @author\ Sandra\ Martin,\ Israel\ Severiche,\ Jose\ Alvarez\r\n\ @version\ 20190907\r\n
+comment1.params=name\ dpto\ poss\ sal
+comment1.target=empleados(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=java.lang.String\ getempname()
+comment3.params=
+comment3.target=java.lang.String\ getdpto()
+comment4.params=
+comment4.target=java.lang.String\ getposs()
+comment5.params=
+comment5.target=int\ getsal()
+comment6.params=
+comment6.target=void\ seedpto()
+comment7.params=
+comment7.target=void\ seeposs()
+comment8.params=bd
+comment8.target=void\ seeempdpto(java.util.ArrayList)
+comment9.params=bd
+comment9.target=void\ seeemposs(java.util.ArrayList)
+numComments=11

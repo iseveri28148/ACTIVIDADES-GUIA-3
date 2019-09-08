@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Pendulo
+comment0.text=\r\n\ Programa\ para\ simular\ el\ mov\ de\ un\ pendulo\ respecto\ a\ la\ gravedad\ y\ longitud\ de\ la\ cuerda\r\n\r\n\ @author\ Sandra\ Martin,\ Israel\ Severiche,\ Jose\ Alvarez\r\n\ @version\ 20190908\r\n
+comment1.params=
+comment1.target=Pendulo()
+comment2.params=l1\ a1
+comment2.target=Pendulo(int,\ int)
+comment3.params=
+comment3.target=int\ getl()
+comment4.params=
+comment4.target=int\ getg()
+comment5.params=newl
+comment5.target=void\ chal(int)
+comment6.params=newg
+comment6.target=void\ chag(int)
+comment7.params=
+comment7.target=double\ calp()
+comment8.params=
+comment8.target=void\ read()
+comment9.params=arg
+comment9.target=void\ main(java.lang.String[])
+numComments=10

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=dupla
+comment0.text=\r\n\r\n\ Programa\ para\ devolver\ 2\ valores\ predeterminados\ y\ editarlos\r\n\r\n\r\n\r\n\ @author\ Sandra\ Martin,\ Israel\ Severiche,\ Jose\ Alvarez\r\n\r\n\ @version\ 20190907\r\n\r\n
+comment1.params=
+comment1.target=dupla()
+comment2.params=
+comment2.target=void\ dardupla()
+comment3.params=newDuplaA2
+comment3.target=void\ newDuplaA(int)
+comment4.params=newDuplaB2
+comment4.target=void\ newDuplaB(int)
+comment5.params=
+comment5.target=void\ leer()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
